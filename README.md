@@ -8,7 +8,7 @@ If you have any question or something, feel free to reach out me anytime via tel
 <br>
 #### 🌹 You're always welcome 🌹
 
-Telegram: [@Leo](https://t.me/shinnyleo0912) <br>
+Telegram: [@andersn0093](https://t.me/andersn0093) <br>
 
 ### 🎯 Example
 - Source Transaction: https://solscan.io/tx/2nNc1DsGxGoYWdweZhKQqnngfEjJqDA4zxnHar2S9bsAYP2csbLRgMpUmy68xuG1RaUGV9xb9k7dGdXcjgcmtJUh
@@ -41,7 +41,7 @@ Follow these steps to get your **Copy trading Bot** up and running!
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/solagent99/Copy-Trading-Bot-Rust
+   git clone https://github.com/CodCrazy/Solana-Copy-Trading-Bot
    ```
 
 2. **Install Dependencies**:
